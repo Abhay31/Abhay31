@@ -19,7 +19,7 @@
 <p align="center">
 <a href="https://twitter.com/Dusty_31" target="_blank"><img src="https://skillicons.dev/icons?i=twitter&perline=10"></a><br>
   
-<div align="center">
+<div align="center"
   <a href="https://linkedin.com/in/abhaysharma31" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=10"></a>
   <a href="https://www.codechef.com/users/abhay_9839" target="blank">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-   badge&logo=CodeChef&logoColor=white)</a>
   <a href="https://www.hackerrank.com/abhaysharma0983" target="blank">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
