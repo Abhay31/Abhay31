@@ -15,8 +15,8 @@
 
 - 📄 Know about my experiences [Link 🔗](https://drive.google.com/file/d/1_9eO_Du3-UEY97qTeA4hwN8EU_ULrs0e/view?usp=share_link)
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
+<h3 align="center">🔗 Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/Dusty_31" target="_blank"><img src="https://skillicons.dev/icons?i=twitter&perline=10"></a><br>
   
   
