@@ -33,7 +33,7 @@
 <a href="https://www.leetcode.com/abhay_9839" target="blank">[![LeetCode user abhay_9839](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay_9839&logo=leetcode&logoColor=yellow)](https://leetcode.com/abhay_9839/)</a>
 
   
-<a href="https://auth.geeksforgeeks.org/user/abhay_9839/practice" target="blank">![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)</a>
+<p align="center"><a href="https://auth.geeksforgeeks.org/user/abhay_9839/practice" target="blank">![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)</a></p>
 </p>
 
 
