@@ -1,11 +1,11 @@
 <h2 align="center">Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&multiline=true&width=560&lines=Hello+this+is+Manas%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&multiline=true&width=560&lines=Hello+this+is+Abhay%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 </h2>
 
 <h4 align="center">A passionate Full Stack Web Developer from India</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manas0916&label=Profile%20views&color=0e75b6&style=flat" alt="manas0916" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhay31&label=Profile%20views&color=0e75b6&style=flat" alt="Abhay31" /> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Dusty31" target="blank"><img src="https://skillicons.dev/icons?i=twitter&perline=10"></a><br>
+<a href="https://twitter.com/Dusty_31" target="blank"><img src="https://skillicons.dev/icons?i=twitter&perline=10"></a><br>
   
   
 <a href="https://linkedin.com/in/abhaysharma31" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=10"></a>
