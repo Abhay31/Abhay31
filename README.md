@@ -16,7 +16,22 @@
 - 📄 Know about my experiences [Link 🔗](https://drive.google.com/file/d/1_9eO_Du3-UEY97qTeA4hwN8EU_ULrs0e/view?usp=share_link)
 
 <h3 align="center">🔗 Connect with me:</h3>
+
 <p align="center">
+  <a href="https://twitter.com/Dusty_31" target="blank"><img src="https://skillicons.dev/icons?i=twitter&perline=10"></a>
+  <a href="https://linkedin.com/in/abhaysharma31" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=10"></a><br>
+  <div align="center"
+       
+  <a href="https://www.codechef.com/users/abhay_9839" target="blank">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
+  <a href="https://www.hackerrank.com/abhaysharma0983" target="blank">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
+  <a href="https://codeforces.com/profile/abhay_9839" target="blank">![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)</a>
+  <a href="https://www.leetcode.com/abhay_9839" target="blank">[![LeetCode user abhay_9839](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay_9839&logo=leetcode&logoColor=yellow)](https://leetcode.com/abhay_9839/)</a>
+  <a href="https://auth.geeksforgeeks.org/user/abhay_9839/practice" target="blank">![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)</a>
+  
+  </div>
+</p>
+
+<!-- <p align="center">
   <a href="https://twitter.com/Dusty_31" target="_blank"><img src="https://skillicons.dev/icons?i=twitter&perline=10"></a><br>
   <a href="https://linkedin.com/in/abhaysharma31" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=10"></a><br>
   <div align="center">
@@ -28,7 +43,7 @@
     <a href="https://auth.geeksforgeeks.org/user/abhay_9839/practice" target="blank">![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)</a>
     
   </div>
-</p>
+</p> -->
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
