@@ -49,4 +49,4 @@
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=java,react,js,bootstrap,css,tailwind,discord,express,firebase,git,github,html,jquery,nextjs,mongodb,postman,nodejs,netlify,vscode&perline=9">
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhay31&show_icons=true&locale=en&layout=compact" alt="Abhay31" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhay31&show_icons=true&locale=en&layout=compact" alt="Abhay31" /></p>
