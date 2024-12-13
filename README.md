@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhaysharma7905@gmail.com**
 
-- 📄 Know about my experiences [Resume🔗]([https://drive.google.com/drive/folders/1st5w_aMOddP96UhTvAiHEzEh1vJVMJ7J](https://drive.google.com/file/d/1DaX_QUjo9mNBZkPXlmbQc8sPhsmyBFKm/view?usp=sharing))
+- 📄 Know about my experiences [Resume🔗](https://drive.google.com/file/d/1DaX_QUjo9mNBZkPXlmbQc8sPhsmyBFKm/view?usp=sharing)
 
 <h3 align="center">🔗 Connect with me:</h3>
 
