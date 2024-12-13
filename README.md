@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **abhaysharma7905@gmail.com**
+- 📫 How to reach me **abhaysharma.dev.31@gmail.com**
 
 - 📄 Know about my experiences [Resume🔗](https://drive.google.com/file/d/1DaX_QUjo9mNBZkPXlmbQc8sPhsmyBFKm/view?usp=sharing)
 
