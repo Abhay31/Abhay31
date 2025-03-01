@@ -18,7 +18,7 @@
 <h3 align="center">🔗 Connect with me:</h3>
 
 <p align="center">
-  <a href="https://twitter.com/Dusty_31" target="blank"><img src="https://skillicons.dev/icons?i=twitter&perline=10"></a>
+  <a href="https://twitter.com/abhaysh3101" target="blank"><img src="https://skillicons.dev/icons?i=twitter&perline=10"></a>
   <a href="https://linkedin.com/in/abhaysharma31" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=10"></a><br>
   <div align="center"
        
